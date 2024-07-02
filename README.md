@@ -46,7 +46,7 @@ Welcome to DoctorConsulta, your premier destination for comprehensive consultati
 - **Social Media Integration**
   - Stay connected and informed through our social media channels.
 
-### Technology Used Client Side:
+### Technology Used Client Side
 - Tailwind CSS
 - DaisyUI & Mamba UI
 - React router dom
