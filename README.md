@@ -51,6 +51,8 @@ Welcome to DoctorConsulta, your premier destination for comprehensive consultati
 - DaisyUI & Mamba UI
 - React router dom
 - React icons
+- Tanstack/react-query
+- React-hook-form
 - React loader spinner
 - Prop types
 - Sweetalert2
