@@ -56,8 +56,7 @@ Welcome to DoctorConsulta, your premier destination for comprehensive consultati
 - React loader spinner
 - Prop types
 - Sweetalert2
-- React toastify
-- Firebase
+
 
 ### Technologies Used Server Side
 - Node Js
